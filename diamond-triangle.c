@@ -11,7 +11,7 @@ int main()
 		}
 		for(k=1;k<=(i*2)-1;k++)
 		{
-			printf("*");
+			printf("*1");
 		}
 		printf("\n");
 	}
